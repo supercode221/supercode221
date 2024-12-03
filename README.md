@@ -7,10 +7,10 @@ I'm a student at FPT University in the present ! Have a interest in BE with Java
 My journey starts from 2022 till now and it's not gonna be broke till my death. In short term, i want to be a Internship in Java Back-End and in long term, i want to be a Project Manager in a world wide project. Thanks for give my profile a meet!
 
 * 🌍  I'm based in Viet Nam
-* ✉️  You can contact me at [dohoanganhworking8386@gmail.com](mailto:dohoanganhworking8386@gmail.com)
+* 👨‍🎓 Studying at FPT University Ha Noi (FPTU HOLA)
 * 🧠  I'm learning Spring MVC, .NET and ASP.NET framework
 * 🤝  I'm open to collaborating on Everythings start with Java BE
-* ⚡  I'm now studying at FPT University Ha Noi
+* ✉️  You can contact me at [dohoanganhworking8386@gmail.com](mailto:dohoanganhworking8386@gmail.com)
 
 ### Skills
 
@@ -21,9 +21,8 @@ My journey starts from 2022 till now and it's not gonna be broke till my death. 
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/hoanganh221" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/dohoanganh1122/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/supercode221" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/hoàng-anh-đỗ-6a1468336/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/supercode221"><img src="https://github-readme-stats.vercel.app/api?username=supercode221&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="supercode221's GitHub stats" /></a>
 
