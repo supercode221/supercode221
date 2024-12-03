@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a student at FPT University in the present ! Have a interest in BE with Java and .NET
 -----------------------------------------------------------------------------------------
 
-My journey starts from 2022 till now and it's not gonna be broke till my death. In short term, i want to be a Internship in Java Back-End and in long term, i want to be a Project Manager in a world wide project. Thanks for give my profile a meet!
+My journey began in 2022, and I am committed to pursuing it passionately for the rest of my life. In the short term, my goal is to secure an internship as a Java Back-End Developer. In the long term, I aspire to become a Project Manager leading a globally significant project. Thank you for taking the time to learn about me!
 
 * 🌍  I'm based in Viet Nam
 * 👨‍🎓 Studying at FPT University Ha Noi (FPTU HOLA)
@@ -24,8 +24,8 @@ My journey starts from 2022 till now and it's not gonna be broke till my death. 
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/supercode221"><img src="https://github-readme-stats.vercel.app/api?username=supercode221&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="supercode221's GitHub stats" /></a>
+<a href="http://www.github.com/supercode221"><img src="https://github-readme-stats.vercel.app/api?username=supercode221&show_icons=true&hide=&count_private=true&title_color=FFCFEF&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="supercode221's GitHub stats" /></a>
 
-<a href="http://www.github.com/supercode221"><img src="https://github-readme-streak-stats.herokuapp.com/?user=supercode221&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/supercode221"><img src="https://github-readme-streak-stats.herokuapp.com/?user=supercode221&stroke=ffffff&background=000000&ring=FFCFEF&fire=FFCFEF&currStreakNum=ffffff&currStreakLabel=FFCFEF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/supercode221" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercode221&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/supercode221" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercode221&langs_count=10&title_color=FFCFEF&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
